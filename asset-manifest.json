@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tachibanatanaka/Test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/tachibanatanaka/Test/static/js/main.71923c8e.chunk.js",
+    "main.js.map": "/tachibanatanaka/Test/static/js/main.71923c8e.chunk.js.map",
+    "runtime-main.js": "/tachibanatanaka/Test/static/js/runtime-main.d7e5a5a3.js",
+    "runtime-main.js.map": "/tachibanatanaka/Test/static/js/runtime-main.d7e5a5a3.js.map",
+    "static/js/2.a4a16643.chunk.js": "/tachibanatanaka/Test/static/js/2.a4a16643.chunk.js",
+    "static/js/2.a4a16643.chunk.js.map": "/tachibanatanaka/Test/static/js/2.a4a16643.chunk.js.map",
+    "static/js/3.8b397b65.chunk.js": "/tachibanatanaka/Test/static/js/3.8b397b65.chunk.js",
+    "static/js/3.8b397b65.chunk.js.map": "/tachibanatanaka/Test/static/js/3.8b397b65.chunk.js.map",
+    "index.html": "/tachibanatanaka/Test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/tachibanatanaka/Test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a4a16643.chunk.js.LICENSE.txt": "/tachibanatanaka/Test/static/js/2.a4a16643.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/tachibanatanaka/Test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e5a5a3.js",
+    "static/js/2.a4a16643.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.71923c8e.chunk.js"
+  ]
+}
